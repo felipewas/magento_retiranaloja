@@ -11,6 +11,7 @@ Instalação:
 3 - Execute o comando bin/magento setup:upgrade
 
 Configuração:
+
 Acesse no Painel Administrativo do Magento no menu lateral clique em Stores, 
 
 depois clique em Configuration, na sequencia clique em Sales, depois Shipping Methods.
