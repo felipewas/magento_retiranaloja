@@ -5,7 +5,9 @@ Versões do Magento Suportadas: 2.2 e 2.3
 
 Instalação:
 1- Extraia o conteúdo do download ZIP dentro do diretório app/code da instalação do magento
+
 2 - Verifique se está dessa maneira o diretório criado app/code/Felipe/RetiradoLoja
+
 3 - Execute o comando bin/magento setup:upgrade
 
 Configuração:
